@@ -3,7 +3,7 @@ Company: CODTECH IT SOLUTIONS<BR>
 ID: CT12WFFP<BR>
 Domain: Java Programming<BR>
 Duration: December 20th, 2024 to March 20th, 2025<BR>
-Mentor: <BR>
+Mentor: N.Santhosh <BR>
 # OVERVIEW OF THE PROJECT<BR>
 ## PROJECT:SIMPLE CALCULATOR
 
